@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 17c31567028cd024dac9e7ce91bb7b37
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 700
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d971a04fcb4f5b4db871f2daf708d1e
+      internalID: -537478164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_3
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 674
+        width: 173
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d8132654a11047ac35d3afe8ce7bd
+      internalID: 1700574992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 450
+        width: 318
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e03dceb6e41b489628b983310bc48
+      internalID: -355613184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 733
+        width: 139
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042457b06419fe949b292d76afe71252
+      internalID: -555379471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 467
+        width: 129
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5789ccfa7da37154882b6832f2258c7e
+      internalID: 1576499329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 614
+        width: 137
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a5d73f7b63c0488e5c1dfda255ea8
+      internalID: 1585575563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_11
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 185
+        width: 76
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d26cae5be5c3e41a3cef60db9030c3
+      internalID: 1009869062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_12
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 558
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0519896ce9e374428495d45b794465c
+      internalID: 1021223851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 497
+        width: 311
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f075f4e9592cc43b5b6ee0da29d3b7
+      internalID: 1077465155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_16
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 442
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6d347d1173dc448ce1d5c53c243a9
+      internalID: -977659084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 389
+        width: 311
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9af7d380de14a45961db86fc4918a3
+      internalID: 733450354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 289
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269829f6eaebf345be423cc188f3614
+      internalID: 2125740729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 251
+        width: 317
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911efd046c1c1d349a9ed156ec3cdf59
+      internalID: -173214856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_23
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 289
+        width: 221
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f596a5f5582828447a3e370c1f8b79da
+      internalID: 1529055572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b063c17ab46c44845fdb7b8b609ee
+      internalID: -763076446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 74
+        width: 383
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce2f27e18fba34cbbd9f03230ce11d
+      internalID: 1193917347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 56
+        width: 366
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2991fb90ee3be7f4ab19ca3376f4b88d
+      internalID: 1698475473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 582
+        width: 314
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522de11d2d7959f40a4c5c69692f7d96
+      internalID: -498721571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asstes insect warrior corregido_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 718
+        width: 313
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289bb7b9a3c1af344af190b4d8521765
+      internalID: 469557305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      asstes insect warrior corregido_12: 1021223851
+      asstes insect warrior corregido_4: -611157244
+      asstes insect warrior corregido_8: 1576499329
+      asstes insect warrior corregido_11: 1009869062
+      asstes insect warrior corregido_9: -1207199215
+      asstes insect warrior corregido_6: -555379471
+      asstes insect warrior corregido_19: 2125740729
+      asstes insect warrior corregido_10: 1585575563
+      asstes insect warrior corregido_18: 733450354
+      asstes insect warrior corregido_0: -537478164
+      asstes insect warrior corregido_22: 1221127348
+      asstes insect warrior corregido_3: 1700574992
+      asstes insect warrior corregido_28: 993050053
+      asstes insect warrior corregido_2: 469557305
+      asstes insect warrior corregido_5: -355613184
+      asstes insect warrior corregido_13: 666667824
+      asstes insect warrior corregido_24: -763076446
+      asstes insect warrior corregido_21: -173214856
+      asstes insect warrior corregido_15: -2063516655
+      asstes insect warrior corregido_17: 568136518
+      asstes insect warrior corregido_1: -498721571
+      asstes insect warrior corregido_30: -1350245201
+      asstes insect warrior corregido_26: -2054211253
+      asstes insect warrior corregido_14: 1077465155
+      asstes insect warrior corregido_20: -688751830
+      asstes insect warrior corregido_29: 955734979
+      asstes insect warrior corregido_23: 1529055572
+      asstes insect warrior corregido_7: -412076439
+      asstes insect warrior corregido_25: 1193917347
+      asstes insect warrior corregido_16: -977659084
+      asstes insect warrior corregido_27: 1698475473
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
